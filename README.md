@@ -65,16 +65,16 @@ A possible improvement would be to implement a PID control to move the fingers a
 ## Assembly
 The assembly should take about 2 hours. Each of the finger tips has to be connected to a joint, which is then attached to the palm.
 
-![finger joints](images/fingerass.png)
+![finger joints](images/fingerass.PNG)
 
 Each finger should be given upper and lower strings (fishing line is what we used). Run the strings through its respective holes through the finger and the joint. Be sure that the upper string is above the bolt when assembling fingers. Once all the fingers have been assembled, run the strings into its respective holes into the palm. The palm is then attached to the forearm, which will house the electrical circuit.
 
-![hand assembly](images/assnolid.png)
+![hand assembly](images/assnolid.PNG)
 
 Connect the upper string to a spring each and lock them into the arm. Set up the forearm by placing the electrical components in the spaces shown below. Connect the lower strings and the servo via springs.
 Sit the switches and wires through its allocated holes.
 
-![hand assembly 2](images/setup.png)
+![hand assembly 2](images/setup.PNG)
 
 Once you have completed the assembly, it should look somewhat like this:
 
