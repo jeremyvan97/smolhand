@@ -83,8 +83,8 @@ Once you have completed the assembly, it should look somewhat like this:
 ## Usage
 Attach ECG electrodes onto the EMG sensor, then attach the electrodes to the back of your forearm (make sure the black electrode is as close to the bone as possible). Turn the switches on, and start moving your ring finger.
 
-![off](images/off.JPG)
-![on](images/on.JPG)
+![off](images/off.jpg)
+![on](images/on.jpg)
 
 Go ahead and start grabbing things. It makes you feel like a sort of machine, doesn't it?
 
