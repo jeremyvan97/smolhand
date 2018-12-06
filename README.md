@@ -1,6 +1,6 @@
 # The Smol Hand 1.0
 ## Introduction
-The Purpose of this project is to create a decently-sized prosthetic arm, fit for a small child to use. Fit with EMG sensors, it allows the user to move the arm by twitching certain muscles.
+The Purpose of this project is to create a decently-sized prosthetic arm, fit for a small child to use. Fit with EMG sensors, it allows the user to move the arm by twitching certain muscles, making it extremely easy to use.
 This documentation goes through the design process, philosophy and schematics of the arm. For a quick look at the arm, check out this [video](https://www.youtube.com/watch?v=ZSc14HTJgZQ), which somewhat highlights the features of the arm (or at least an old version of it).
 
 ![Smol hand](images/smolhand.jpg)
