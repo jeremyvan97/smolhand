@@ -8,7 +8,7 @@ This documentation goes through the design process, philosophy and schematics of
 Before, we go any further, I would like to thank Yotaro Iwai, Williams Kwan and Jen Wen for being great teammates and making this a fun task.
 
 ## Disclaimer
-This project was a semester-long assessment of the subject MCEN30019 Mechatronics Systems Design at the University of Melbourne. If you are currently enrolled in this subject, I **STRONGLY** advise you to design your own arm, not just because of plagiarism, but it is because it is more enjoyable and more knowledgeable to design one yourself (trust me).
+This project was a semester-long assessment of the subject MCEN30019 Mechatronics Systems Design at the University of Melbourne. If you are currently enrolled in this subject, I **STRONGLY** advise you to design your own arm, not just because of plagiarism, but because it is more enjoyable and more knowledgeable to design one yourself (trust me).
 
 ## Let's get started
 
@@ -19,7 +19,7 @@ This project can be split into 3 main parts:
 
 The gist of how the whole system works is that the sensor will read electric pulses from the user, which its readings will be then passed into a microcontroller (in this case it is an Arduino Nano). The microcontroller will then pass signals to the electrical system, which powers the actuator (a servo motor) and hence moves the mechanisms in the hand.
 
-Throughout the project, we had decided to make the arm as simple and small as possible to accompany for our target audience, a 10 year old child in a third world country.
+Throughout the project, we had decided to make the arm as simple and small as possible to accommodate for our target audience, a 10 year old child in a third world country.
 >Any idiot can make something complicated. It takes good design to make something simple.
 >
 >-Rachel Macfarlane (quoted from somewhere else I think), 2018
